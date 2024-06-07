@@ -1,4 +1,4 @@
-# -chatgpt-
+# chatgpt
 
 # Awaken的第一篇博客
 ## 如何提示chatgpt自动画一个合适的流程图
@@ -102,7 +102,7 @@ def set_seed(seed=42):
 - [https://app.diagrams.net/](https://app.diagrams.net/)
 
 然后得到了以下Mermaid代码：
-```mermaid
+```
 graph TD
     classDef inputOutput fill:#f9f,stroke:#333,stroke-width:2px,color:#000;
     classDef process fill:#0f9,stroke:#333,stroke-width:2px,color:#000;
@@ -123,13 +123,13 @@ graph TD
     K --> G
     L
 ```
-网站1的效果：
-![image](https://github.com/freesnowmountain/-chatgpt-/assets/102
 
-673901/50c1c03f-d8b4-4f2f-b465-8b17fbbb788f)
+网站1的效果：
+![image](https://github.com/freesnowmountain/-chatgpt-/assets/102673901/3ca5a6a3-333b-43e5-a609-8020557eeaae)
+
 网站2的效果：
 ![image](https://github.com/freesnowmountain/-chatgpt-/assets/102673901/680d3de3-a553-4c6b-ba93-bdb860ea3bdf)
 ![image](https://github.com/freesnowmountain/-chatgpt-/assets/102673901/a2ac3ac8-9eab-4490-87de-7ee19c3df9b0)
-```
+
 
 
